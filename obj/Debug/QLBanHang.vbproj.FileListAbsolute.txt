@@ -1,0 +1,100 @@
+E:\QLBanHang\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+E:\QLBanHang\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\QLBanHang\QLBanHang\QLBanHang\bin\Debug\QLBanHang.xml
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.xml
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmtong.resources
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmthongtinkh.resources
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmcapnhatkh.resources
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmsanpham.resources
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmthongtinsp.resources
+E:\QLBanHang\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmchitiethd.resources
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.xml
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\bin\Debug\QLBanHang.xml
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmcapnhatkh.resources
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmchitiethd.resources
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmthongtinsp.resources
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmtong.resources
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmthongtinkh.resources
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmcatnhatsanpham.resources
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.test.resources
+E:\Fpoly\cloud\ass\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmthongtin.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.exe
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.xml
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\bin\Debug\QLBanHang.exe
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\bin\Debug\QLBanHang.xml
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.frmcapnhatkh.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.frmchitiethd.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.frmcatnhatsanpham.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.frmsearch.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtin.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtinsp.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.frmtong.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtinkh.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment1_INF205\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.exe
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.xml
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.pdb
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\bin\Debug\QLBanHang.exe
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\bin\Debug\QLBanHang.pdb
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\bin\Debug\QLBanHang.xml
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmcapnhatkh.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmchitiethd.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmcatnhatsanpham.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmsearch.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtin.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtinsp.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmtong.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtinkh.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+E:\Fpoly\cloud\ass\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.exe
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.xml
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.pdb
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\bin\Debug\QLBanHang.exe
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\bin\Debug\QLBanHang.pdb
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\bin\Debug\QLBanHang.xml
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmcapnhatkh.resources
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmchitiethd.resources
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmcatnhatsanpham.resources
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmsearch.resources
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtin.resources
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtinsp.resources
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmtong.resources
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtinkh.resources
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+C:\Users\Phong\Desktop\New folder\phongnhps02832_Assignment2_INF205\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
+C:\Users\Phong\Desktop\New folder\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.exe
+C:\Users\Phong\Desktop\New folder\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.xml
+C:\Users\Phong\Desktop\New folder\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.pdb
+D:\FPoly\INF205-DienToanDamMay\Labs\Asignment\Phong\phongnhps02832_AssignmentFinal_INF205\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.exe
+D:\FPoly\INF205-DienToanDamMay\Labs\Asignment\Phong\phongnhps02832_AssignmentFinal_INF205\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.xml
+D:\FPoly\INF205-DienToanDamMay\Labs\Asignment\Phong\phongnhps02832_AssignmentFinal_INF205\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.pdb
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.exe
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.xml
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.pdb
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\bin\Debug\QLBanHang.exe
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\bin\Debug\QLBanHang.pdb
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\bin\Debug\QLBanHang.xml
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.frmcapnhatkh.resources
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.frmchitiethd.resources
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.frmcatnhatsanpham.resources
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.frmsearch.resources
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtin.resources
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtinsp.resources
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.frmtong.resources
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.frmthongtinkh.resources
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+C:\Users\Asus\Desktop\QLBanHang_VB\phongnhps02832_AssignmentFinal_INF205\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache

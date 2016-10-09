@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6CFE97A8-6BBB-4157-B7E3-88FE6417583D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>QLBanHang.My.MyApplication</StartupObject>
+    <RootNamespace>QLBanHang</RootNamespace>
+    <AssemblyName>QLBanHang</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>QLBanHang.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>QLBanHang.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmcapnhatkh.Designer.vb">
+      <DependentUpon>frmcapnhatkh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcapnhatkh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmchitiethd.Designer.vb">
+      <DependentUpon>frmchitiethd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmchitiethd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcatnhatsanpham.Designer.vb">
+      <DependentUpon>frmcatnhatsanpham.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcatnhatsanpham.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsearch.Designer.vb">
+      <DependentUpon>frmsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmthongtin.Designer.vb">
+      <DependentUpon>frmthongtin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmthongtin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmthongtinsp.Designer.vb">
+      <DependentUpon>frmthongtinsp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmthongtinsp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtong.Designer.vb">
+      <DependentUpon>frmtong.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmthongtinkh.Designer.vb">
+      <DependentUpon>frmthongtinkh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmthongtinkh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmcapnhatkh.resx">
+      <DependentUpon>frmcapnhatkh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmchitiethd.resx">
+      <DependentUpon>frmchitiethd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcatnhatsanpham.resx">
+      <DependentUpon>frmcatnhatsanpham.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsearch.resx">
+      <DependentUpon>frmsearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmthongtin.resx">
+      <DependentUpon>frmthongtin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmthongtinsp.resx">
+      <DependentUpon>frmthongtinsp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtong.resx">
+      <DependentUpon>frmtong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmthongtinkh.resx">
+      <DependentUpon>frmthongtinkh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
